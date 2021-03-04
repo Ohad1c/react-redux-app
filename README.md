@@ -1,2 +1,1 @@
-# react-redux-app
-react redux app using firebase firestore and firebase auth services, single page application.
+![alt text](https://i.imgur.com/j9xW167.png)
